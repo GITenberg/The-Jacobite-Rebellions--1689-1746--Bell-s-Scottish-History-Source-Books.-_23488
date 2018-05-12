@@ -1,0 +1,31 @@
+_repo: The-Jacobite-Rebellions--1689-1746--Bell-s-Scottish-History-Source-Books.-_23488
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thomson, J. Pringle (James Pringle)
+    alias: Thomson, James Pringle
+    birthdate: 1889
+    deathdate: 1916
+    gutenberg_agent_id: '25881'
+    url: http://www.gutenberg.org/2009/agents/25881
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2007-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23488'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scotland -- History -- Sources'
+- !lcc 'DA'
+- !lcsh 'Jacobites'
+title: 'The Jacobite Rebellions (1689-1746)
+
+  (Bell''s Scottish History Source Books.)'
+url: http://www.gutenberg.org/ebooks/23488
